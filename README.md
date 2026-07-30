@@ -1,3 +1,5 @@
+![CI](https://github.com/Gaddala9090/mlops-pipeline-demo/actions/workflows/ci.yml/badge.svg)
+
 # MLOps Pipeline Demo
 
 An end-to-end machine learning pipeline showing how a model goes from raw data to a monitored, production deployment — not just a notebook that stops at "here's my accuracy."
